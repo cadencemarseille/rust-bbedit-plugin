@@ -22,6 +22,7 @@
 		<string>be</string>
 		<string>break</string>
 		<string>continue</string>
+		<string>crate</string>
 		<string>do</string>
 		<string>else</string>
 		<string>enum</string>
